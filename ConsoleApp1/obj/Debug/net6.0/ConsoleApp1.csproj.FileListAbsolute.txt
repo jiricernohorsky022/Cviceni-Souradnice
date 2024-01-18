@@ -1,0 +1,4 @@
+C:\Users\jiri.cernohorsky.022\Source\Repos\Cviceni-Souradnice\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiri.cernohorsky.022\Source\Repos\Cviceni-Souradnice\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\jiri.cernohorsky.022\Source\Repos\Cviceni-Souradnice\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\jiri.cernohorsky.022\Source\Repos\Cviceni-Souradnice\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
